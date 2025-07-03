@@ -10,3 +10,15 @@ O objetivo principal é proporcionar uma interface simples e funcional para auxi
 - HTML
 - CSS
 - JavaScript
+
+## Funcionalidades principais
+- Consulta de clima atual para qualquer cidade digitada.
+- Envio de alerta por formulário, direcionados para um e-mail específico.
+- Publicação e exclusão de alertas com mensagens e comentários.
+- Adição de comentários aos alertas via modal interativo.
+- Alternância de tema claro e escuro.
+- Layout responsivo e acessível.
+
+## Link do Site
+
+https://1tsmeana.github.io/Desastres_Ambientais/
